@@ -1,4 +1,4 @@
-# alliyuo.github.io
+# Redefining Data: Stories, Ethics, and Hands-On Exploration
 
 As someone deeply interested in data and the stories it tells to inform decisions—whether in shaping policies or designing physical products—this class has provided an opportunity to explore data from a new perspective. Before this class, I hadn’t fully considered that data could be represented by more than just numbers. Realizing that data encompasses a wider range of representations expanded my understanding of its significance and the myriad ways it shapes our world. This course, in particular, encouraged me to engage with data in unconventional forms, such as archives of personal stories and crafts, which I might have overlooked as I grew up.
 
