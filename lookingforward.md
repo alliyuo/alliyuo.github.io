@@ -1,3 +1,4 @@
+## Looking Forward
 After this class I’m excited to continue exploring the dynamic nature of data and how it shapes the world around us. Moving forward, I plan to take three key steps to integrate these insights into my future learning career path.
 First, I will seek out courses that delve deeper into the intersection of data and storytelling, such as *Big Data, Education, and Society* or *Data Analysis for Social Impact*. These classes will equip me with the skills to represent and work with complex narratives through innovative format while staying true to their underlying meaning.
 Second, I want to explore the ethical implications of working with data further by reading books like *Weapons of Math Destruction* by Cathy O’Neil. This will help me think critically about the broader societal impact of data and ensure that my future work is both responsible and impactful.
