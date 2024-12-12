@@ -1,3 +1,5 @@
-theme: jekyll-theme-architect
-title: Buky's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Modernist theme
+description: Modernist is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-modernist
