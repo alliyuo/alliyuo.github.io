@@ -17,7 +17,6 @@ Reflecting on these experiences, I realized how they expanded my understanding o
 This class has fundamentally reshaped my understanding of data by encouraging me to explore it in unconventional forms and contexts. It has shown me that data is not merely about analysis or measurement; it is a tool for shaping narratives, driving decisions, and uncovering insights that create meaningful change. These experiences have reinforced my desire to pursue a career in data analysis and international development. I now see data as a bridge, capable of connecting diverse stories, addressing complex challenges, and fostering impactful solutions. This newfound perspective has been both inspiring and motivating, solidifying my commitment to mastering data as a tool for transformative impact.
 
 
-## References
 [^1]: Dan Bouk, ["Stories in the Data” and “Partners”](https://acrobat.adobe.com/id/urn%3Aaaid%3Asc%3AVA6C2%3A02f8af68-2d3a-4d0f-b206-39760771a30f?promoid=DRCFIIQN&mv=other&mv2=unav&locale=en-US&uri=urn%3Aaaid%3Asc%3AVA6C2%3A02f8af68-2d3a-4d0f-b206-39760771a30f)in Democracy's Data
 
 [^2]:[“The Ethics of Digital Data on Convict Lives"](https://www.digitalpanopticon.org/The_Ethics_of_Digital_Data_on_Convict_Lives)
